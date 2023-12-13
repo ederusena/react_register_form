@@ -21,6 +21,8 @@ const Home = () => {
             <br />
             <Link to="/editor">Go to the Editor page</Link>
             <br />
+            <Link to="/profile">Go to the Profile</Link>
+            <br />
             <Link to="/admin">Go to the Admin page</Link>
             <br />
             <Link to="/lounge">Go to the Lounge</Link>
